@@ -19,7 +19,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: <a href="https://www.psuti.ru/"><img src="https://i.postimg.cc/V6QCkzLg/vk.png" width="18" height="13" alt="LinkedIn Badge"></a>
+- 📫 How to reach me: <a href="https://vk.com/id740976028"><img src="https://i.postimg.cc/V6QCkzLg/vk.png" width="18" height="13" alt="my vk profile"></a>
 
 
 ---
